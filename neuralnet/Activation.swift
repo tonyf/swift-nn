@@ -26,3 +26,16 @@ class Sigmoid: Activation {
         }
     }
 }
+
+class ReLU: Activation {
+    internal func Compute(output: [Double]) -> [Double] {
+        return output.map{ z in max(0, z) }
+    }
+    
+    internal func Delta(output: [Double]) -> [Double]
+    {
+        return output.map{ (z:Double) in
+            return z > 0 ? z : 0
+        }
+    }
+}

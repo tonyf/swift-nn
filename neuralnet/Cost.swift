@@ -20,6 +20,4 @@ class Quad: Cost {
         vDSP_vsubD(output, 1, target, 1, &result, 1, UInt(output.count))
         return result
     }
-
-
 }
