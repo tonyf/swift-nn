@@ -9,15 +9,6 @@
 import Foundation
 import Accelerate
 
-//class Cost
-//{
-//    class func Delta(output: [Double], target: [Double]) -> [Double]
-//    {
-//        var result = [Double](repeating : 0.0, count : output.count)
-//        vDSP_vsubD(output, 1, target, 1, &result, 1, UInt(output.count))
-//        return result
-//    }
-//}
 
 protocol Cost {
     func Delta(output: [Double], target: [Double]) -> [Double]

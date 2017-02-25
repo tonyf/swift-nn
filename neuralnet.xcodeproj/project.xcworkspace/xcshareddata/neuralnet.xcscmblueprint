@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B22FBC18ECF5973D8F0E1E396A1B7BB5EC0DFB7F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "500F22C63AE3B580C443BD457624583EE3DF06AB" : 9223372036854775807,
+    "B22FBC18ECF5973D8F0E1E396A1B7BB5EC0DFB7F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5495C20A-B58B-4D9C-8D98-422149B072D0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "500F22C63AE3B580C443BD457624583EE3DF06AB" : "",
+    "B22FBC18ECF5973D8F0E1E396A1B7BB5EC0DFB7F" : "neuralnet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "neuralnet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "neuralnet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:tonyf\/11364.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "500F22C63AE3B580C443BD457624583EE3DF06AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:tonyf\/NeuralNetworkSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B22FBC18ECF5973D8F0E1E396A1B7BB5EC0DFB7F"
+    }
+  ]
+}
